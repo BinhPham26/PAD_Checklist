@@ -216,7 +216,7 @@ document.addEventListener("DOMContentLoaded", function () {
         ? JSON.parse(saved)
         : [
             {
-              text: "Check điểm BM có nằm trên mặt, không cho phép điểm nằm cao hoặc thấp hơn.",
+              text: "Check điểm BM có nằm trên mặt đường chưa?, không cho phép điểm nằm cao hoặc thấp hơn.",
               checked: false,
             },
             {
